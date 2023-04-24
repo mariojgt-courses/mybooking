@@ -1,0 +1,17 @@
+Recommended time investment: 4hrs
+We would like you to create a booking system for Hayden’s Garage.
+The business owner Paul wants to capture the following information and save it to the
+database;
+Name
+Email Address
+Phone Number
+Vehicle Make & Model
+Date & time of booking
+Customers should be able to book in 30-minute intervals. The garage is open between
+9am and 5:30pm, Monday to Friday. Only 1 booking should be allowed per slot.
+It should be possible for Paul to prevent specific days and slots from being booked. Paul
+should be able to see upcoming bookings from an admin interface, and be able to filter
+to a specific day.
+A booking confirmation needs to be emailed to both Paul and the customer.
+The technical test should be completed using Laravel, VueJS (or other JS framework)
+and contain clean and well commented code.
